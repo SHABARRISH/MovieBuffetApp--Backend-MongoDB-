@@ -1,2 +1,5 @@
-# MovieBuffetApp--Backend-MongoDB-
-Movie-Buffet-App with BACKEND mechanism and MONGODB integration
+# STEP - NODE JS
+
+APPLICATION CODE - NODE JS USECASE
+
+### MOVIE BUFFET
